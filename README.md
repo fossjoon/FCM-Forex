@@ -1,0 +1,2 @@
+# FCM-Forex
+Fidelis Capital Markets (Fidelis CM) Zero Spread Account lowers the cost of trading by passing on the cost benefit of using Tier 1 banks and liquidity providers. It follows "best bid - best offer" modus operandi which allows the forex customers to trade on the best possible price at any given point in time. With constant price update, it gives ample room for price improvement and makes Low forex spreads possible for every order.
